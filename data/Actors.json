@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"battler","characterIndex":0,"characterName":"jeff","classId":1,"equips":[5,0,0,3,0],"faceIndex":0,"faceName":"hero","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Jeff","nickname":"","note":"<NPC>","profile":"Simple Homeless "}
+]

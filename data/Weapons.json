@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"simple wooden sword","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,10,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":1,"description":"Allows you a removing object but low attack","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":113,"name":"CrowBar","note":"","params":[0,0,4,0,0,0,0,0],"price":20,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Посох","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"Uses for dig a tunnels down","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":217,"name":"Shovel","note":"","params":[0,0,2,0,0,0,0,0],"price":50,"wtypeId":4},
+{"id":5,"animationId":1,"description":"Build!","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.15}],"iconIndex":223,"name":"Hammer","note":"","params":[0,0,3,0,0,0,10,0],"price":0,"wtypeId":4}
+]

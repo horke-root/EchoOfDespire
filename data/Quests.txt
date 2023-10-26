@@ -1,0 +1,29 @@
+<quest 1:Find out what happened in the world|3|0>
+get information about a world
+reshenia text, resolution text, resolution text
+Understand what happened. 
+Find at least one entry about this world
+</quest>
+<quest 2:Explore the area|0|1>
+Build a house, Find provision, Get all information
+Explore the area and try 
+to find some information
+Find provison and 
+build a house
+</quest>
+<quest 3:Exploration of Abandoned Cities|3|0>
+Build a bridge, Travel to Abadoned City, Reconstruct Picture of Events, Rescue a people's
+Your first task is build the bridge and travel 
+into one of the abandoned
+ cities that were devastated 
+as a result of the 
+AI catastrophe. Examine the 
+remaining records,
+ fragments of documents, and 
+eyewitness accounts.
+ Try to reconstruct the picture of 
+the events that took
+ place and determine what changes 
+have occurred in
+ people's lives after the catastrophe.
+</quest>

@@ -1,0 +1,35 @@
+{
+ "library": {
+     "categories": [
+         "Category 1",
+         "Category 2",
+         ...
+         "Category N"
+     ],
+     "books": {
+         "title1": {
+             "title": "Book Title",
+             "titleColor": 0,
+             "text": "Book's content.",
+             "textArray": [
+                 "if you want your book text to change throughout the game",
+                 "add all text chunks inside this array"
+             ],
+             "visibleTexts": [
+                 0
+             ],
+             "category": 0,
+             "id": 0,
+             "customBg": "Picture Name",
+             "customBgMode": 11
+         },
+         "title2": {
+             ...
+         },
+         ...,
+         "titleN": {
+             ...
+         }
+     }
+ }
+}
